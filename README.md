@@ -1,4 +1,4 @@
-#AStarTilePuzzle
+# AStarTilePuzzle
 
 This repository uses the A* algorithm to solve tile puzzles of N size.
 
